@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alper 👋
 
-<!--
-**alperakcayy/alperakcayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean, responsive web interfaces and modern mobile-ready apps.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- HTML, CSS, JavaScript (Responsive UI)
+- React (learning & building)
+- Supabase (Auth, Database)
+- Netlify Deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Current Project
+**Concordia Nova** – Modular web-based app UI  
+Live demo: (yakında eklenecek)
+
+## 🎯 Goals
+- Build strong freelance portfolio
+- Deliver pixel-perfect UI
+- Launch real-world projects
