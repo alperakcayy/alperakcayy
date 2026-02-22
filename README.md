@@ -1,4 +1,29 @@
+<!-- Snow Falling SVG Animation -->
+<p align="center">
+<svg width="100%" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="0" r="3" fill="white">
+    <animate attributeName="cy" from="0" to="150" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="0" r="4" fill="white">
+    <animate attributeName="cy" from="0" to="150" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="0" r="3" fill="white">
+    <animate attributeName="cy" from="0" to="150" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="0" r="5" fill="white">
+    <animate attributeName="cy" from="0" to="150" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="0" r="3" fill="white">
+    <animate attributeName="cy" from="0" to="150" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="0" r="4" fill="white">
+    <animate attributeName="cy" from="0" to="150" dur="8.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+</p>
 
+<!-- Animated Typing Header -->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Alper+Akcay;Computer+Programming+Student;Junior+Full+Stack+Developer;Building+Modern+Web+Applications" />
 </p>
 
