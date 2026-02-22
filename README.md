@@ -97,12 +97,21 @@ A multi-category web platform developed with:
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Professional Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperakcayy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperakcayy&layout=compact&theme=tokyonight" />
-</p>
+I focus on building clean, scalable, and production-ready web applications.
+
+My development approach is centered around:
+
+- Writing maintainable and structured code  
+- Designing efficient backend architectures  
+- Implementing secure authentication systems  
+- Optimizing performance and database queries  
+- Following modern software development best practices  
+
+I aim to continuously evolve as a developer by working on real-world projects,
+adopting industry standards, and refining problem-solving skills.
+
 
 ---
 
