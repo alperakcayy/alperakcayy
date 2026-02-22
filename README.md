@@ -93,25 +93,24 @@ A multi-category web platform developed with:
 - Supabase database integration  
 - Deployed with Netlify  
 
-🔗 https://concordia-nova.netlify.app/
+---
+
+## 💼 Professional Focus
+
+- Writing clean, maintainable and scalable code  
+- Designing structured backend architectures  
+- Building production-ready web applications  
+- Improving performance and optimization strategies  
+- Applying security best practices  
+- Continuous learning and technical growth  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Vision
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperakcayy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperakcayy&layout=compact&theme=tokyonight" />
-</p>
+My goal is to become a highly skilled full-stack developer capable of building scalable SaaS platforms and robust backend systems used in real-world production environments.
 
----
-
-## 🎯 Career Goals
-
-- Becoming a Professional Full-Stack Developer  
-- Building SaaS Platforms  
-- Working with International Clients  
-- Contributing to Open Source  
+I aim to work on international projects, contribute to open-source communities, and continuously push my technical limits.
 
 ---
 
