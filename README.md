@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/9Qx3Y5L.gif" width="100%" />
-</p><!-- Animated Header -->
-<p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Alper+Akcay;Computer+Programming+Student;Junior+Full+Stack+Developer;Building+Modern+Web+Applications" />
 </p>
 
